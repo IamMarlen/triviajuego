@@ -1,0 +1,16 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+
+b{
+    text-align: center;
+}
+
+body{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    padding:  2rem;
+    background-color: blanchedalmond;
+}
